@@ -33,8 +33,28 @@ for un-odered list
 [any text](url)
 [github class notes](https://github.com/GirishaDevara/SCM_git_batch1)
 
-# Images 
+# Images res
 ![alt](image url)
 ![error image](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
 
 <img src="https://img.freepik.com/free-photo/jasmine-flower-greenery_34266-955.jpg?size=626&ext=jpg" atl="error">
+
+# Code Blocks
+```python 
+s = "python variable"
+```
+
+```javascript
+var s = "javascript variable"
+```
+
+```
+without language 
+```
+
+```html
+<html>
+    <head>
+        <title>somthing<title/>
+        </head>
+ ```
