@@ -30,7 +30,7 @@
 # Images
 ![alt message](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
 
-
+<img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png alt="img not available" width="200" height="300" ">
 # code and Syntax Highlighting
 ```javascript 
 var s = "java script variable"
