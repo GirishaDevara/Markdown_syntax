@@ -59,25 +59,3 @@ without language
         </head>
  ```
  
- # Table
- | table | head | head |
- |----|----|----|
- | 1X1 | 1X2 | 1X3 |
- | 2X1 | 2X2 | 2X3 |
- 
- 
- table | Head | Head 
- -----|----|-----
- data1 | data2 | data3 
- 
- # Block Quotes
- 
- > this is about Block Quotes
- 
- # horizontal rules
- line 
- *****
- line2 
- ______
-  line 3
-  -------
