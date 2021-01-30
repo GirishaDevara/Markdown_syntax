@@ -59,3 +59,26 @@ without language
         </head>
  ```
  
+# Tables
+| table | head1 | head2 |
+|----|----|----|
+| data1 | data 2 | data 3|
+| data4 | data5 | data 6|
+
+
+table | head 1 | head 2
+-----|-----|-----
+**data1** | _data2_ | ~~data3~~ 
+data4 | data 5 | data 6
+
+# BlockQuotes
+
+> this is block quote 
+# horizontal Rule
+
+
+
+
+
+
+
