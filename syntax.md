@@ -37,7 +37,7 @@ for un-odered list
 ![alt](image url)
 ![error image](https://github.githubassets.com/images/modules/open_graph/github-octocat.png)
 
-<img src="https://img.freepik.com/free-photo/jasmine-flower-greenery_34266-955.jpg?size=626&ext=jpg" atl="error">
+
 
 # Code Blocks
 ```python 
